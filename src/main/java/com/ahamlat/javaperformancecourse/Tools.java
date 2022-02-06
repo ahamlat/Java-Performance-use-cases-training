@@ -17,7 +17,7 @@ import static java.util.stream.Collectors.toList;
 
 public class Tools {
 
-    private final static String API_KEY = "aefa05b2-8451-4671-8936-95e703e1100f";
+    private final static String API_KEY = "YOUR_API_KEY";
     private static String URI_CONVERSION = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest";
 
     public static List<String> initList() throws Exception{
