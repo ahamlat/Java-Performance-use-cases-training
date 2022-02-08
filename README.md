@@ -1,2 +1,8 @@
 # Java-Performance-use-cases-training
-Some Java Performance Optimization use cases
+
+## Description
+This project shows some performance optimizations on Java performance issues.
+
+## Use cases
+
+TODO
